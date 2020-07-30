@@ -18,6 +18,7 @@
 * `apt install git curl -y`
 * `git clone https://github.com/sillytuktuk2020/Track_iP.git `
 * `cd trackip`
+ *chmod +x trackip
 
 #### > Run : `bash trackip`
 
