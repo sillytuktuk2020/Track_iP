@@ -17,13 +17,13 @@
 * `apt update`
 * `apt install git curl -y`
 * `git clone https://github.com/sillytuktuk2020/Track_iP.git `
-* `cd Track_iP`
+* `cd trackip`
 
-#### > Run : `bash  Track_iP`
+#### > Run : `bash trackip`
 
 ## Single Command :
 ```
-apt update ; apt install git curl -y ; git clone https://github.com/sillytuktuk2020/Track_iP ; cd Track_iP ; bash Track_iP
+apt update ; apt install git curl -y ; git clone https://github.com/sillytuktuk2020/Track_iP ; cd  trackip bash trackip
 ```
 <br>
 <p align="center">
