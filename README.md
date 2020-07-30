@@ -27,7 +27,7 @@ apt update ; apt install git curl -y ; git clone https://github.com/sillytuktuk2
 ```
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/trackip.png"/>
+<img src="https://github.com/sillytuktuk2020/Track_iP/blob/master/IMG_20200730_160532.png"/>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
